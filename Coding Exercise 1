@@ -5,7 +5,7 @@ public class OneDay {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		System.out.println("7:00 am: I wake up, eat breakfast, and went for a shower.");
+		System.out.println("6:30 am: I wake up, eat breakfast, and went for a shower.");
 		System.out.println("8:00 am: I draw and/or play video games.");
 		System.out.println("10:00 am: I prepare for classes of the day.");
 		System.out.println("2:30 pm: Class finishes, I eat lunch.");
